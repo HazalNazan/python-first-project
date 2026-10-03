@@ -1,4 +1,15 @@
-#BIST FINANCIAL SNAPSHOT
-My first Python project for analyzing BIST stock data and financial performance.
-## PROJECT STATUS 
-In progress
+# BIST Market Risk & Regime Monitor
+
+A Python-based financial analysis project focused on BIST equities.
+
+## Objective
+
+Analyze real market data to study:
+- returns and performance
+- volatility and drawdown
+- market beta and correlation
+- changing market risk regimes
+
+## Project Status
+
+Early development.
