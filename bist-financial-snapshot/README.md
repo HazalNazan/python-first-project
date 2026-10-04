@@ -13,3 +13,4 @@ Analyze real market data to study:
 ## Project Status
 
 Early development.
+> Next: Integrate real BIST market data.
